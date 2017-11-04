@@ -1,0 +1,231 @@
+body{
+	background: #648880;
+    background: linear-gradient(to right, #B59CA9 0%, #9B9CC2 100%);
+}
+
+body.sitemap{
+	 background: url("../images/whitebrick.jpg") no-repeat center center fixed; 
+	    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#container{
+	width: 900px;
+	margin: auto;
+}
+
+#options{
+	width: 865px;
+}
+
+#header{
+	text-align: center;
+	position: relative;
+	bottom: -5px;
+	text-shadow: 1px 1px 2px black, 0 0 25px magenta, 0 0 5px purple;
+	font-size: 130%;
+}
+
+.logo{
+	position: relative;
+	left: 4%;
+	bottom: -2px;
+	padding: 1%;
+} 
+
+/*.logo{
+	    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}*/
+
+#logo{
+	position: relative;
+	left: 27%;
+	bottom: 150px;
+}
+
+.socialm{
+	position: relative;
+	top: -80px;
+	left: 35%;
+}
+
+.topcupcakes{
+	position: relative;
+	bottom: -250px;
+	
+}
+
+.cupcakes{
+	position: relative;
+	bottom: 415px;
+	left: 55%;
+}
+
+.topcupcakes1{
+	position: relative;
+	bottom: -50px;
+	left: -10%;
+	
+}
+
+.topcupcakes3{
+	position: relative;
+	bottom: -310px;
+	left: 0%;
+	
+}
+
+.popcake{
+	position: relative;
+	bottom: 465px;
+	left: 60%;
+}
+
+.telephone{
+	position: relative;
+	bottom: 530px;
+	left: 50%;
+}
+
+#quote1{
+	color: darkslategray;
+	position: relative;
+	left: 2%;
+	top: -200px;
+	width: 40%;
+	padding: 1%;
+	margin: 0%;
+	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+}
+
+
+#story{
+	
+	color: darkslategray;
+	font-size: 110%;
+	position: relative;
+	height: 350px;
+	left: 3%;
+	top: -400px;
+	width: 50%;
+	padding: 1%;
+	margin: 0%;
+	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	
+}
+
+#aboutus{
+	
+	color: darkslategray;
+	position: relative;
+	left: 1%;
+	top: -225px;
+	width: 40%;
+	padding: 1%;
+	margin: 0%;
+	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+}
+
+#address{
+	
+	color: darkslategray;
+	position: relative;
+	left: 6%;
+	top: -225px;
+	width: 40%;
+	padding: 1%;
+	margin: 0%;
+	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+}
+
+#events{
+	
+	color: darkslategray;
+	position: relative;
+	left: 3%;
+	top: -225px;
+	width: 40%;
+	padding: 1%;
+	margin: 0%;
+	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+}
+
+#where{
+	color: darkslategray;
+	position: relative;
+	left: 52%;
+	top: -435px;
+	width: 40%;
+	padding: 1%;
+	margin: 0%;
+	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+}
+
+
+#bottomhalf{
+	height: 200px;
+}
+
+.img-circle{
+	border-radius: 35%;
+	position: relative;
+	left: 60%;
+	bottom: 210px;
+}
+
+.img-circle2{
+	border-radius: 35%;
+	position: relative;
+	left: 60%;
+	bottom: -200px;
+}
+
+nav{
+	position: relative;
+	width: 865px;
+	top: 40%;
+}
+
+ul {
+    list-style-type: none;
+	border: groove;
+	border-color: #F18789;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F0A9D9;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 60px;
+    text-decoration: none;
+}
+
+/* Change the link color to #923E72 (dark pink) on hover */
+li a:hover {
+    background-color: #923E72;
+}
+
+.current {
+    background-color: #923E72;
+    color: white;
+}
+
+footer{
+	color: mediumvioletred;
+	position: relative;
+	bottom: -340px;
+	
+}
